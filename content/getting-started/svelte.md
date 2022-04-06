@@ -26,6 +26,8 @@ npm install
 npx svelte-add@latest tailwindcss
 ```
 
+You can use [Flowbite-Svelte](https://flowbite-svelte.vercel.app/) components.
+
 ## Method 1: Using Flowbite-Svelte
 
 [Flowbite-Svelte](https://flowbite-svelte.vercel.app/) is an unofficial Flowbite component library for Svelte. All interactivities are handled by Svelte.
